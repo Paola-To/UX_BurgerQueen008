@@ -6,6 +6,7 @@ Este proyecto supone un reto mayor a los que te has enfrentado ya que abarca la 
 
 **UX Design**
 El restaurante Pan D'Monium tiene el objetivo de estandarizar la forma de tomar pedidos y que eso se refleje en el tiempo de entrega tanto en sucursal para posteriormente implementarlo en el resto de la cadena, así también facilitar la cobranza e impactar el trabajo en cocina.
+
 Para lograr esto debes de entender el funcionamiento total del negocio, todo el flujo, los puntos de interacción y el rol de cada uno de los stakeholders que participan en el proceso.
 El restaurante se encuentra en Av. Chilpancingo 129, Roma Sur y el nombre de tu contacto es Aurora.
 
